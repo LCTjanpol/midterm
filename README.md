@@ -2,10 +2,10 @@
 S.Y.C.O Management App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Straightforward Calendar View
+* Core Event Management Functions
+* User-Friendly Interface
+* Centralized Event Information
 
 
 
